@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=500&lines=Senior+Full+Stack+Developer;Building+Scalable+Applications;Always+Learning+%26+Growing" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=500&lines=Senior+Full+Stack+Developer" alt="Typing SVG" />
 
 </div>
 
@@ -22,7 +22,7 @@
 
 <div align="center">
 
-## <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2000&pause=500&color=3B82F6&center=true&vCenter=true&repeat=false&width=200&height=40&lines=About+Me" /> <img src="https://cdn-icons-png.flaticon.com/512/3135/3135715.png" width="35" height="35" />
+## <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2000&pause=500&color=3B82F6&center=true&vCenter=true&repeat=false&width=200&height=40&lines=About+Me" /> 
 
 </div>
 
@@ -57,7 +57,7 @@ const profile = {
 
 <div align="center">
 
-## <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2000&pause=500&color=10B981&center=true&vCenter=true&repeat=false&width=350&height=40&lines=Technical+Expertise" /> <img src="https://cdn-icons-png.flaticon.com/512/3524/3524659.png" width="35" height="35" />
+## <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2000&pause=500&color=10B981&center=true&vCenter=true&repeat=false&width=350&height=40&lines=Technical+Expertise" /> 
 
 </div>
 
@@ -117,7 +117,6 @@ const profile = {
 ╚════════════════════════════════════════════════════════════╝
 ```
 
-<img src="https://cdn-icons-png.flaticon.com/512/3588/3588592.png" width="25" height="25" />
 
 </div>
 
@@ -125,8 +124,7 @@ const profile = {
 
 <div align="center">
 
-## <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2000&pause=500&color=3B82F6&center=true&vCenter=true&repeat=false&width=400&height=40&lines=Professional+Experience" /> <img src="https://cdn-icons-png.flaticon.com/512/3281/3281289.png" width="35" height="35" />
-
+## <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2000&pause=500&color=3B82F6&center=true&vCenter=true&repeat=false&width=400&height=40&lines=Professional+Experience" /> 
 </div>
 
 ### <img src="https://cdn-icons-png.flaticon.com/512/3976/3976625.png" width="22" height="22" /> School Life Assistant - Ideal Schools
@@ -153,7 +151,7 @@ const profile = {
 
 ---
 
-### <img src="https://cdn-icons-png.flaticon.com/512/263/263142.png" width="22" height="22" /> Full Stack Developer - E-Commerce Platform
+### <img src="https://cdn-icons-png.flaticon.com/512/3081/3081559.png" width="22" height="22" /> Full Stack Developer – E-Commerce Platform
 **IT Services, Hammamet** | ![Calendar](https://img.shields.io/badge/Jan_2025-May_2025-yellow?style=flat&logo=calendar&logoColor=white)
 
 ![Tech](https://img.shields.io/badge/Stack-Symfony_|_MySQL-informational?style=flat&logo=stackshare&logoColor=white)
@@ -205,7 +203,7 @@ const profile = {
 
 <div align="center">
 
-## <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2000&pause=500&color=10B981&center=true&vCenter=true&repeat=false&width=450&height=40&lines=Education+%26+Certifications" /> <img src="https://cdn-icons-png.flaticon.com/512/3976/3976631.png" width="35" height="35" />
+## <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2000&pause=500&color=10B981&center=true&vCenter=true&repeat=false&width=450&height=40&lines=Education+%26+Certifications" /> 
 
 </div>
 
@@ -224,8 +222,7 @@ Elite Formation • *October 2021 - June 2023*
 
 <div align="center">
 
-## <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2000&pause=500&color=8B5CF6&center=true&vCenter=true&repeat=false&width=350&height=40&lines=Featured+Projects" /> <img src="https://cdn-icons-png.flaticon.com/512/3588/3588592.png" width="35" height="35" />
-
+## <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2000&pause=500&color=8B5CF6&center=true&vCenter=true&repeat=false&width=350&height=40&lines=Featured+Projects" /> 
 </div>
 
 | **Technology / Tool**             | **Professional Description**                                                                     |
@@ -280,8 +277,7 @@ Elite Formation • *October 2021 - June 2023*
 
 <div align="center">
 
-## <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2000&pause=500&color=EC4899&center=true&vCenter=true&repeat=false&width=320&height=40&lines=Languages+Spoken" /> <img src="https://cdn-icons-png.flaticon.com/512/3898/3898082.png" width="35" height="35" />
-
+## <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2000&pause=500&color=EC4899&center=true&vCenter=true&repeat=false&width=320&height=40&lines=Languages+Spoken" /> 
 </div>
 
 <p align="center">
@@ -295,20 +291,22 @@ Elite Formation • *October 2021 - June 2023*
 
 <div align="center">
 
-## <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2000&pause=500&color=EF4444&center=true&vCenter=true&repeat=false&width=280&height=40&lines=Current+Goals" /> <img src="https://cdn-icons-png.flaticon.com/512/2617/2617812.png" width="35" height="35" />
-
+## <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2000&pause=500&color=EF4444&center=true&vCenter=true&repeat=false&width=280&height=40&lines=Current+Goals" /> 
 </div>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=10B981&center=true&vCenter=true&width=600&lines=Continuous+Learning+%F0%9F%93%9A;Innovation+%26+Problem+Solving+%F0%9F%92%A1;Team+Collaboration+%F0%9F%A4%9D;Building+Better+Solutions+%F0%9F%9A%80" alt="Goals" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=1800&pause=400&color=3B82F6&center=true&vCenter=true&width=600&lines=Creativity+Unleashed+%F0%9F%8E%A8;Coding+with+Passion+%F0%9F%92%BB;Learning+Every+Day+%F0%9F%93%9A;Delivering+Impact+%F0%9F%94%A5&repeat=true" alt="Goals" />
 </p>
+
+
+
+
 
 ---
 
 <div align="center">
 
-## <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2000&pause=500&color=06B6D4&center=true&vCenter=true&repeat=false&width=250&height=40&lines=Let's+Connect" /> <img src="https://cdn-icons-png.flaticon.com/512/3588/3588339.png" width="35" height="35" />
-
+## <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2000&pause=500&color=06B6D4&center=true&vCenter=true&repeat=false&width=250&height=40&lines=Let's+Connect" /> 
 </div>
 
 <p align="center">
@@ -319,7 +317,7 @@ Elite Formation • *October 2021 - June 2023*
 
 <div align="center">
 
-### <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2000&pause=500&color=F59E0B&center=true&vCenter=true&repeat=false&width=250&height=35&lines=Quote+of+the+Day" /> <img src="https://cdn-icons-png.flaticon.com/512/2901/2901098.png" width="28" height="28" />
+### <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2000&pause=500&color=F59E0B&center=true&vCenter=true&repeat=false&width=250&height=35&lines=Quote+of+the+Day" /> 
 
 **"Code is like humor. When you have to explain it, it's bad."** — Cory House
 
@@ -339,8 +337,6 @@ Elite Formation • *October 2021 - June 2023*
 
 <div align="center">
 
-![Wave](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=2000&pause=500&color=F75C7E&center=true&vCenter=true&repeat=false&width=400&lines=Made+with+%E2%9D%A4%EF%B8%8F+by+Dhia+Eddine+Saied" alt="Footer" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=2500&pause=800&color=4B5563&center=true&vCenter=true&repeat=false&width=460&lines=Full+Stack+Developer+%7C+Dhia+Eddine+Saied" alt="Footer" />
 
 </div>
