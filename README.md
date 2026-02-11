@@ -57,7 +57,7 @@ const profile = {
 
 <div align="center">
 
-## <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2000&pause=500&color=10B981&center=true&vCenter=true&repeat=false&width=350&height=40&lines=Technical+Expertise" /> 
+## <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2000&pause=500&color=3B82F6&center=true&vCenter=true&repeat=false&width=350&height=40&lines=Technical+Expertise" /> 
 
 </div>
 
@@ -177,7 +177,7 @@ const profile = {
 
 ---
 
-### <img src="https://cdn-icons-png.flaticon.com/512/3079/3079178.png" width="22" height="22" /> Full Stack Developer - Enterprise System
+### <img src="https://cdn-icons-png.flaticon.com/512/684/684908.png" width="22" height="22" /> Full Stack Developer - Enterprise System
 **Tunisie Telecom** | ![Calendar](https://img.shields.io/badge/June_2023-July_2023-yellow?style=flat&logo=calendar&logoColor=white)
 
 ![Tech](https://img.shields.io/badge/Stack-HTML_|_CSS_|_Bootstrap_|_AJAX_|_PHP_|_MySQL-informational?style=flat&logo=stackshare&logoColor=white)
@@ -190,7 +190,7 @@ const profile = {
 
 ---
 
-### <img src="https://cdn-icons-png.flaticon.com/512/2314/2314773.png" width="22" height="22" /> Computer Maintenance Specialist - Hardware & Systems
+### <img src="https://cdn-icons-png.flaticon.com/512/2942/2942926.png" width="22" height="22" /> Computer Maintenance Specialist - Hardware & Systems
 **Hi-Tech** | ![Calendar](https://img.shields.io/badge/July_2022-Aug_2022-yellow?style=flat&logo=calendar&logoColor=white)
 
 ![Achievement](https://img.shields.io/badge/-Equipment_Management-informational?style=flat&logo=desktop&logoColor=white) Specialized in purchasing, selling, and repairing computer equipment
@@ -203,7 +203,7 @@ const profile = {
 
 <div align="center">
 
-## <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2000&pause=500&color=10B981&center=true&vCenter=true&repeat=false&width=450&height=40&lines=Education+%26+Certifications" /> 
+## <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2000&pause=500&color=3B82F6&center=true&vCenter=true&repeat=false&width=450&height=40&lines=Education+%26+Certifications" /> 
 
 </div>
 
@@ -222,7 +222,7 @@ Elite Formation • *October 2021 - June 2023*
 
 <div align="center">
 
-## <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2000&pause=500&color=8B5CF6&center=true&vCenter=true&repeat=false&width=350&height=40&lines=Featured+Projects" /> 
+## <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2000&pause=500&color=3B82F6&center=true&vCenter=true&repeat=false&width=350&height=40&lines=Featured+Projects" /> 
 </div>
 
 | **Technology / Tool**             | **Professional Description**                                                                     |
@@ -277,7 +277,7 @@ Elite Formation • *October 2021 - June 2023*
 
 <div align="center">
 
-## <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2000&pause=500&color=EC4899&center=true&vCenter=true&repeat=false&width=320&height=40&lines=Languages+Spoken" /> 
+## <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2000&pause=500&color=3B82F6&center=true&vCenter=true&repeat=false&width=320&height=40&lines=Languages+Spoken" /> 
 </div>
 
 <p align="center">
@@ -291,11 +291,11 @@ Elite Formation • *October 2021 - June 2023*
 
 <div align="center">
 
-## <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2000&pause=500&color=EF4444&center=true&vCenter=true&repeat=false&width=280&height=40&lines=Current+Goals" /> 
+## <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2000&pause=500&color=3B82F6&center=true&vCenter=true&repeat=false&width=280&height=40&lines=Current+Goals" /> 
 </div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=1800&pause=400&color=3B82F6&center=true&vCenter=true&width=600&lines=Creativity+Unleashed+%F0%9F%8E%A8;Coding+with+Passion+%F0%9F%92%BB;Learning+Every+Day+%F0%9F%93%9A;Delivering+Impact+%F0%9F%94%A5&repeat=true" alt="Goals" />
+  <strong>Creativity Unleashed  • Coding with Passion  • Learning Every Day  • Delivering Impact </strong>
 </p>
 
 
@@ -306,11 +306,11 @@ Elite Formation • *October 2021 - June 2023*
 
 <div align="center">
 
-## <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2000&pause=500&color=06B6D4&center=true&vCenter=true&repeat=false&width=250&height=40&lines=Let's+Connect" /> 
+## <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2000&pause=500&color=3B82F6&center=true&vCenter=true&repeat=false&width=250&height=40&lines=Let's+Connect" /> 
 </div>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=700&lines=I'm+always+open+to+interesting+conversations;and+collaboration+opportunities.+Feel+free+to+reach+out!" alt="Connect Message" />
+<strong>I'm always open to interesting conversations and collaboration opportunities. Feel free to reach out!</strong>
 </p>
 
 ---
