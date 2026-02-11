@@ -122,9 +122,9 @@ const profile = {
 ---
 
 <div align="center">
-
-## <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2000&pause=500&color=3B82F6&center=true&vCenter=true&repeat=false&width=350&height=40&lines=Featured+Projects" /> 
+   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2000&pause=500&color=3B82F6&center=true&vCenter=true&repeat=false&width=350&height=40&lines=Skills+%26+Tools+Stack" /> 
 </div>
+
 
 | **Technology / Tool**             | **Professional Description**                                                                     |
 | --------------------------------- | ------------------------------------------------------------------------------------------------ |
