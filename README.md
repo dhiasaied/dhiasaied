@@ -123,104 +123,6 @@ const profile = {
 
 <div align="center">
 
-## <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2000&pause=500&color=3B82F6&center=true&vCenter=true&repeat=false&width=400&height=40&lines=Professional+Experience" /> 
-</div>
-
-### <img src="https://cdn-icons-png.flaticon.com/512/3976/3976625.png" width="22" height="22" /> School Life Assistant - Ideal Schools
-**Ideal Schools, Ideal Holding** | ![Calendar](https://img.shields.io/badge/Oct_2025-Present-success?style=flat&logo=calendar&logoColor=white)
-
-![Support](https://img.shields.io/badge/-Specialized_Support-informational?style=flat&logo=heart&logoColor=white) Supported children with ADHD and autism by adapting learning activities and managing behaviors
-
-![Development](https://img.shields.io/badge/-Social_Development-informational?style=flat&logo=users&logoColor=white) Promoted social and emotional development while collaborating with teachers and families
-
-![Environment](https://img.shields.io/badge/-Inclusive_Learning-informational?style=flat&logo=book&logoColor=white) Ensured an inclusive learning environment for diverse student needs
-
----
-
-### <img src="https://cdn-icons-png.flaticon.com/512/2920/2920277.png" width="22" height="22" /> Full Stack Developer - Platform Development
-**IT Services, Hammamet** | ![Calendar](https://img.shields.io/badge/July_2025-1_month-yellow?style=flat&logo=calendar&logoColor=white)
-
-![Tech](https://img.shields.io/badge/Stack-Angular_|_Node.js_|_MySQL-informational?style=flat&logo=stackshare&logoColor=white)
-
-![Achievement](https://img.shields.io/badge/-Platform_Development-informational?style=flat&logo=rocket&logoColor=white) Built a comprehensive platform with Angular and Node.js to support final-year projects and internships
-
-![Achievement](https://img.shields.io/badge/-Feature_Implementation-informational?style=flat&logo=tools&logoColor=white) Implemented resources, planning tools, and mentorship features for effective collaboration
-
-![Achievement](https://img.shields.io/badge/-User_Experience-informational?style=flat&logo=star&logoColor=white) Enhanced learning experiences through modern web technologies
-
----
-
-### <img src="https://cdn-icons-png.flaticon.com/512/3081/3081559.png" width="22" height="22" /> Full Stack Developer – E-Commerce Platform
-**IT Services, Hammamet** | ![Calendar](https://img.shields.io/badge/Jan_2025-May_2025-yellow?style=flat&logo=calendar&logoColor=white)
-
-![Tech](https://img.shields.io/badge/Stack-Symfony_|_MySQL-informational?style=flat&logo=stackshare&logoColor=white)
-
-![Achievement](https://img.shields.io/badge/-Dynamic_Platform-informational?style=flat&logo=database&logoColor=white) Developed a dynamic web platform using Symfony and MySQL for automotive spare parts management
-
-![Achievement](https://img.shields.io/badge/-Inventory_Control-informational?style=flat&logo=package&logoColor=white) Delivered efficient inventory control and seamless transaction processing
-
-![Achievement](https://img.shields.io/badge/-UX_Enhancement-informational?style=flat&logo=paintbrush&logoColor=white) Enhanced user experience with responsive design and intuitive interfaces
-
----
-
-### <img src="https://cdn-icons-png.flaticon.com/512/201/201623.png" width="22" height="22" /> Full Stack Developer - Booking System
-**IT Services, Hammamet** | ![Calendar](https://img.shields.io/badge/June_2024-July_2024-yellow?style=flat&logo=calendar&logoColor=white)
-
-![Tech](https://img.shields.io/badge/Stack-HTML_|_CSS_|_Bootstrap_|_PHP_|_MySQL-informational?style=flat&logo=stackshare&logoColor=white)
-
-![Achievement](https://img.shields.io/badge/-Booking_System-informational?style=flat&logo=plane&logoColor=white) Created an airport transport booking system with real-time availability
-
-![Achievement](https://img.shields.io/badge/-Responsive_Interface-informational?style=flat&logo=mobile&logoColor=white) Developed a responsive and secure interface for smooth booking management
-
-![Achievement](https://img.shields.io/badge/-Payment_Processing-informational?style=flat&logo=credit-card&logoColor=white) Implemented real-time updates and payment processing
-
----
-
-### <img src="https://cdn-icons-png.flaticon.com/512/684/684908.png" width="22" height="22" /> Full Stack Developer - Enterprise System
-**Tunisie Telecom** | ![Calendar](https://img.shields.io/badge/June_2023-July_2023-yellow?style=flat&logo=calendar&logoColor=white)
-
-![Tech](https://img.shields.io/badge/Stack-HTML_|_CSS_|_Bootstrap_|_AJAX_|_PHP_|_MySQL-informational?style=flat&logo=stackshare&logoColor=white)
-
-![Achievement](https://img.shields.io/badge/-Mailroom_System-informational?style=flat&logo=mail&logoColor=white) Developed a mailroom management system with role-based access control
-
-![Achievement](https://img.shields.io/badge/-CRUD_Operations-informational?style=flat&logo=database&logoColor=white) Implemented CRUD operations, secure form handling, and real-time data processing
-
-![Achievement](https://img.shields.io/badge/-Responsive_UI-informational?style=flat&logo=layout&logoColor=white) Delivered input validation and responsive UI design for optimal user experience
-
----
-
-### <img src="https://cdn-icons-png.flaticon.com/512/2942/2942926.png" width="22" height="22" /> Computer Maintenance Specialist - Hardware & Systems
-**Hi-Tech** | ![Calendar](https://img.shields.io/badge/July_2022-Aug_2022-yellow?style=flat&logo=calendar&logoColor=white)
-
-![Achievement](https://img.shields.io/badge/-Equipment_Management-informational?style=flat&logo=desktop&logoColor=white) Specialized in purchasing, selling, and repairing computer equipment
-
-![Achievement](https://img.shields.io/badge/-Security_Systems-informational?style=flat&logo=shield&logoColor=white) Installed and maintained surveillance systems
-
-![Achievement](https://img.shields.io/badge/-Technical_Expertise-informational?style=flat&logo=cpu&logoColor=white) Expert in hardware diagnostics, system configuration, and network setup
-
----
-
-<div align="center">
-
-## <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2000&pause=500&color=3B82F6&center=true&vCenter=true&repeat=false&width=450&height=40&lines=Education+%26+Certifications" /> 
-
-</div>
-
-**Advanced Technician in Web Development**  
-Elite Formation • *October 2023 - June 2025*
-
-**Professional Technician in Management Computing**  
-Elite Formation • *October 2021 - June 2023*
-
-### <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=1500&pause=300&color=F59E0B&center=false&vCenter=true&repeat=false&width=200&height=30&lines=Certifications" />
-- <img src="https://cdn-icons-png.flaticon.com/512/5610/5610944.png" width="18" height="18" /> Professional Certificate in Software Development — Paris College
-- <img src="https://cdn-icons-png.flaticon.com/512/5610/5610944.png" width="18" height="18" /> Advanced WordPress Development & Plugin Management
-- <img src="https://cdn-icons-png.flaticon.com/512/5610/5610944.png" width="18" height="18" /> UI/UX Design with Figma
-
----
-
-<div align="center">
-
 ## <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2000&pause=500&color=3B82F6&center=true&vCenter=true&repeat=false&width=350&height=40&lines=Featured+Projects" /> 
 </div>
 
@@ -271,20 +173,6 @@ Elite Formation • *October 2021 - June 2023*
 ![Projects](https://img.shields.io/badge/Total_Projects-44+-28A745?style=for-the-badge&logo=checkmark&logoColor=white)
 
 </div>
-
----
-
-<div align="center">
-
-## <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2000&pause=500&color=3B82F6&center=true&vCenter=true&repeat=false&width=320&height=40&lines=Languages+Spoken" /> 
-</div>
-
-<p align="center">
-<img src="https://img.shields.io/badge/Arabic-Native-28A745?style=for-the-badge" alt="Arabic"/>
-<img src="https://img.shields.io/badge/English-Fluent-0A66C2?style=for-the-badge" alt="English"/>
-<img src="https://img.shields.io/badge/French-Fluent-0055A4?style=for-the-badge" alt="French"/>
-<img src="https://img.shields.io/badge/Spanish-Fluent-FFC107?style=for-the-badge" alt="Spanish"/>
-</p>
 
 ---
 
